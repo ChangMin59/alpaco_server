@@ -3,10 +3,10 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/alpaco
+    url: jdbc:mysql://localhost:proxy.rlwy.net:43716/railway
     username: root
-    password: 1234
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: sDEyonitowPRyfCOQBtkltAmhMZRaepm
+    driver-class-name: yamanote.proxy.rlwy.net
 
   jpa:
     hibernate:
