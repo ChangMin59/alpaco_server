@@ -6,7 +6,7 @@ spring:
     url: jdbc:mysql://interchange.proxy.rlwy.net:43716/railway
     username: root
     password: sDEyonitowPRyfCOQBtkltAmhMZRaepm
-    driver-class-name: yamanote.proxy.rlwy.net
+    driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
     hibernate:
